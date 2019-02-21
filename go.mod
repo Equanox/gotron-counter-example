@@ -1,4 +1,4 @@
-module stuttgart-gophers-gotron
+module gotron-counter-example
 
 require (
 	github.com/Equanox/gotron v0.2.23-0.20190219162751-f9a334a8ffc9

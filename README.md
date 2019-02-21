@@ -1,4 +1,4 @@
-# Stuttgart-Gophers-Gotron
+# Gotron-Counter-Example
 
 A counter example used to showcase Gotron in  live coding session
 during presentation on Stuttgart-Gophers meetup group.
