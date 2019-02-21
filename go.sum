@@ -3,6 +3,10 @@ github.com/Benchkram/errz v0.0.0-20180825145403-619d291cb54f h1:FRzI8csOWCO+a4dt
 github.com/Benchkram/errz v0.0.0-20180825145403-619d291cb54f/go.mod h1:twnWNXfJK5tkeR2E3YIZI5t//54pW/QIbykQoKtAqtk=
 github.com/Equanox/gotron v0.2.2 h1:DTGABb/DRY/wFW+KJnAN7yvZXrjAeEAaEisDBPgug0U=
 github.com/Equanox/gotron v0.2.2/go.mod h1:8vjnc4ObgrbbZLdQze/Kzy4QZumyigzBZlvG416UA4s=
+github.com/Equanox/gotron v0.2.22 h1:KhZTg+d8YfaLdmUUlYerdFgiyyzLNRfP3TMA6CHQAvo=
+github.com/Equanox/gotron v0.2.22/go.mod h1:TAu5ThbZlhiDBL76z6aH2XpPEe/Kklcow2z4U01FI9k=
+github.com/Equanox/gotron v0.2.23-0.20190219162751-f9a334a8ffc9 h1:s6yMbGkCffgCxb/0lq9vyjCNWcsIc4FUFwMxsashJMI=
+github.com/Equanox/gotron v0.2.23-0.20190219162751-f9a334a8ffc9/go.mod h1:TAu5ThbZlhiDBL76z6aH2XpPEe/Kklcow2z4U01FI9k=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/googollee/go-engine.io v0.0.0-20190213132105-4e7e01159ce8 h1:8HLaB8ZIMgfiTTmT6tBs9S3qnfH6/jsoBThZVq+BYcA=
 github.com/googollee/go-engine.io v0.0.0-20190213132105-4e7e01159ce8/go.mod h1:MBpz1MS3P4HtRcBpQU4HcjvWXZ9q+JWacMEh2/BFYbg=
